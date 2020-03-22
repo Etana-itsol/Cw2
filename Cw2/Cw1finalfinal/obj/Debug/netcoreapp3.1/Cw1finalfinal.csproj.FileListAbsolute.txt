@@ -1,0 +1,14 @@
+D:\ec\Cw1finalfinal\Cw1finalfinal\bin\Debug\netcoreapp3.1\Cw1finalfinal.exe
+D:\ec\Cw1finalfinal\Cw1finalfinal\bin\Debug\netcoreapp3.1\Files\data.csv
+D:\ec\Cw1finalfinal\Cw1finalfinal\bin\Debug\netcoreapp3.1\Cw1finalfinal.deps.json
+D:\ec\Cw1finalfinal\Cw1finalfinal\bin\Debug\netcoreapp3.1\Cw1finalfinal.runtimeconfig.json
+D:\ec\Cw1finalfinal\Cw1finalfinal\bin\Debug\netcoreapp3.1\Cw1finalfinal.runtimeconfig.dev.json
+D:\ec\Cw1finalfinal\Cw1finalfinal\bin\Debug\netcoreapp3.1\Cw1finalfinal.dll
+D:\ec\Cw1finalfinal\Cw1finalfinal\bin\Debug\netcoreapp3.1\Cw1finalfinal.pdb
+D:\ec\Cw1finalfinal\Cw1finalfinal\obj\Debug\netcoreapp3.1\Cw1finalfinal.csprojAssemblyReference.cache
+D:\ec\Cw1finalfinal\Cw1finalfinal\obj\Debug\netcoreapp3.1\Cw1finalfinal.csproj.CoreCompileInputs.cache
+D:\ec\Cw1finalfinal\Cw1finalfinal\obj\Debug\netcoreapp3.1\Cw1finalfinal.AssemblyInfoInputs.cache
+D:\ec\Cw1finalfinal\Cw1finalfinal\obj\Debug\netcoreapp3.1\Cw1finalfinal.AssemblyInfo.cs
+D:\ec\Cw1finalfinal\Cw1finalfinal\obj\Debug\netcoreapp3.1\Cw1finalfinal.dll
+D:\ec\Cw1finalfinal\Cw1finalfinal\obj\Debug\netcoreapp3.1\Cw1finalfinal.pdb
+D:\ec\Cw1finalfinal\Cw1finalfinal\obj\Debug\netcoreapp3.1\Cw1finalfinal.genruntimeconfig.cache
