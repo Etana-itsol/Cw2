@@ -19,7 +19,7 @@ namespace Cw1finalfinal
 
 
                 if (!File.Exists(inputPath))
-                    throw new FileNotFoundException("ERR", inputPath.Split("\\")[^1]);
+                    throw new FileNotFoundException("Nie znaleziono pliku:", inputPath.Split("\\")[^1]);
 
                 var university = new Uczelnia
                 {
