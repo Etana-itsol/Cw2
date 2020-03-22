@@ -8,7 +8,7 @@ namespace Cw1finalfinal
         [XmlAttribute(AttributeName = "name")]
         public string Name { get; set; }
         
-        [XmlAttribute(AttributeName = "numberof students")]
+        [XmlAttribute(AttributeName = "numberofstudents")]
         public int CountOfStudents { get; set; }
         
         public override bool Equals(object obj)
