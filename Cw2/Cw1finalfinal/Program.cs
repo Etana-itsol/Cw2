@@ -9,7 +9,7 @@ namespace Cw1finalfinal
     {
         static void Main(string[] args)
         {
-             var inputPath = args.Length > 0 ? args[0] : @"Files/data.csv";
+             var inputPath = args.Length > 0 ? args[0] : @"Files\data.csv";
             var outputPath = args.Length > 1 ? args[1] : @"Files\result";
             var outputType = args.Length > 2 ? args[2] : "xml";
 
